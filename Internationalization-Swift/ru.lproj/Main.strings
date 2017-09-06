@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Save String"; ObjectID = "2XH-Zp-Yht"; */
+"2XH-Zp-Yht.normalTitle" = "Save String";
+
+/* Class = "UIButton"; normalTitle = "Remove String"; ObjectID = "DDc-en-iam"; */
+"DDc-en-iam.normalTitle" = "Remove String";
+
+/* Class = "UIButton"; normalTitle = "Retrieving String"; ObjectID = "U8T-Tq-pGL"; */
+"U8T-Tq-pGL.normalTitle" = "Retrieving String";
+
+/* Class = "UILabel"; text = "Retrieved String Value"; ObjectID = "xcs-pj-c1P"; */
+"xcs-pj-c1P.text" = "Retrieved String Value";
